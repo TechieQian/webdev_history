@@ -1,0 +1,1 @@
+create table items(item_id serial PRIMARY KEY, text VARCHAR(50) NOT NULL);
